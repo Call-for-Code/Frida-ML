@@ -13,4 +13,7 @@ The training data is obtained from Oklahoma (USA). [IRIS data](https://www.iris.
 
 **Training env**:
 Use 'GPU enabled Jupyter Notebook' in Watson Studio (current in closed beta) to train DL model. 
-The Training data ('GSOK029_8-2016.mseed') with 34K records of data is loaded into Cloud Object Storage which is created in WS's project. 
+The Training data ('GSOK029_8-2016.mseed') with 34K records of data is loaded into Cloud Object Storage which is created in WS's project as following ![waveform](https://github.com/IBM/Frida/blob/master/docs/images/Waveform.png)
+
+
+
